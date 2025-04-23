@@ -1,4 +1,5 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ?si=BZirtwcKDrPjBUrf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Character Backstory :
 
 Remyr tem poucas lembranças da vila onde nasceu tendo em vista que foi salvo do local bem cedo. Ele era um órfão que cresceu em uma pequena vila recebendo cuidados de uma igreja local sem ter conhecido seus pais ou qualquer membro de sua família. Um dia, essa vila foi atacada por algo que Remyr não se lembra, sendo um dos poucos que fugiu e em seu caminho, foi salvo por um grupo de Paladinos enviados para ajudar o local.
